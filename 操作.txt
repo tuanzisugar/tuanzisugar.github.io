@@ -1,0 +1,13 @@
+首先进行一些基础配置，安装git nodejs 配置git连接Github
+
+npm install hexo-cli -g			# intall hexo
+
+# 在该电脑的本地文件夹下clone Blog源文件
+git clone <url>
+
+
+clone 成功后，进入blog文件夹下，安装之前安装的插件
+
+npm install
+npm install hexo-deployer-git --save
+npm install hexo-hexo-renderer-marked #图片
