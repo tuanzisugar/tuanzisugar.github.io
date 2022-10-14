@@ -1,5 +1,5 @@
 ---
-cover: https://cdn.jsdelivr.net/gh/tuanzisugar/tuanziimg/img/202210081511462.PNG
+cover: https://cdn.jsdelivr.net/gh/tuanzisugar/tuanziimg/img/portrait.webp
 title: test
 date: 2022-09-28 14:12:35
 categories: HEXO
