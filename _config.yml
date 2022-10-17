@@ -134,3 +134,4 @@ live2d:
 lazyload:
   enable: true
   loadingImg: /img/loading.webp
+
