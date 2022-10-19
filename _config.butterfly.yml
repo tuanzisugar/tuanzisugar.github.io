@@ -573,8 +573,8 @@ fireworks:
 
 # Mouse click effects: Heart symbol (鼠標點擊效果: 愛心)
 click_heart:
-  enable: false
-  mobile: false
+  enable: true
+  mobile: true
 
 # Mouse click effects: words (鼠標點擊效果: 文字)
 ClickShowText:
@@ -722,7 +722,7 @@ newest_comments:
 
 # Conversion between Traditional and Simplified Chinese (簡繁轉換)
 translate:
-  enable: false
+  enable: true
   # The text of a button
   default: 繁
   # the language of website (1 - Traditional Chinese/ 2 - Simplified Chinese）
@@ -863,6 +863,7 @@ css_prefix: true
 inject:
   head: 
     - <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css">
+    - <link rel="stylesheet" href="/css/scrollbar.css">
     # - <script src="https://cdn.jsdelivr.net/gh/tuanzisugar/live2d@main/live2dwidget/jquery.min.js"></script>
     # - <link rel="stylesheet" href="/css/mycss.css">
     # - <link rel="stylesheet" href="/xxx.css">
